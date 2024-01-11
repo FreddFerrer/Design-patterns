@@ -5,3 +5,5 @@ El patrón no es una porción específica de código, sino un concepto general p
 Los patrones se confunden con algoritmos porque ambos conceptos describen soluciones típicas a problemas conocidos. Mientras que un algoritmo siempre define un grupo claro de acciones para lograr un objetivo, un patrón es una descripción de más alto nivel de una solución. 
 
 **Analogia:** un algoritmo sería una receta de cocina: ambos cuentan con pasos claros para alcanzar una meta. Por su parte, un patrón es más similar a un plano, ya que puedes observar cómo son su resultado y sus funciones, pero el orden exacto de la implementación depende de ti.
+
+En este repositorio me dedicaré a ejemplificar con codigo __Java__ algunos de los patrondes de diseño de software mas conocidos.
